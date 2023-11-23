@@ -1,0 +1,787 @@
+.nav-child,
+.nav-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.nav-child {
+  background-color: #d9d9d9;
+  height: 126px;
+}
+.nav-item {
+  background-color: var(--color-lightgray);
+  height: 1079.01px;
+}
+.rectangle-icon,
+.scrolllll-child,
+.scrolllll-child1,
+.scrolllll-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 2204px;
+  height: 1281px;
+  object-fit: cover;
+}
+.rectangle-icon,
+.scrolllll-child1,
+.scrolllll-inner {
+  left: 2514px;
+}
+.rectangle-icon,
+.scrolllll-child1 {
+  left: 5028px;
+}
+.scrolllll-child1 {
+  left: 7542px;
+}
+.scrolllll {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 1136px;
+  overflow: hidden;
+}
+.home-about-us {
+  position: absolute;
+  top: 18px;
+  left: 720px;
+  font-weight: 800;
+  display: inline-block;
+  width: 840px;
+  gap: 10px;
+}
+
+.home-about-us ul{
+list-style: none;
+}
+.home-about-us ul{
+display: flex;
+gap: 10px;
+}
+.home-about-us ul li a{
+ padding: 10px;
+ color:white; 
+ text-decoration: none; 
+}
+.nav-inner {
+  position: absolute;
+  top: 31px;
+  left: 45px;
+  border-radius: 50%;
+  width: 77px;
+  height: 66px;
+  object-fit: cover;
+}
+.bar-restaurant {
+  margin: 0;
+}
+.bar-restaurant-container {
+  position: absolute;
+  top: 659.67px;
+  left: 533.08px;
+  font-size: 35.6px;
+  font-weight: 700;
+  color: var(--color-aliceblue);
+}
+.rockside-resto-bar {
+  position: absolute;
+  top: 510.33px;
+  left: 280.88px;
+  font-size: 94.95px;
+  font-weight: 900;
+  color: #f1dd2f;
+}
+.booking-page-child {
+  position: absolute;
+  top: 271.98px;
+  left: calc(50% + 92.97px);
+  width: 98.9px;
+  height: 98.9px;
+  overflow: hidden;
+}
+.details-entry-icon {
+  position: absolute;
+  top: 153px;
+  left: calc(50% - 35px);
+  border-radius: 19.78px;
+  width: 694px;
+  height: 557px;
+}
+.event-name,
+.phone-no {
+  position: absolute;
+  top: 248.24px;
+  left: calc(50% + 32.64px);
+  font-weight: 600;
+}
+.event-name {
+  top: 325.38px;
+  left: calc(50% + 36.59px);
+}
+.booking-page-item {
+  position: absolute;
+  top: 180.99px;
+  left: calc(50% - 570.66px);
+  width: 98.9px;
+  height: 98.9px;
+  overflow: hidden;
+}
+.booking-page-inner {
+  top: 282.86px;
+  width: 573.63px;
+  height: 29.67px;
+}
+.booking-page-child1,
+.booking-page-inner,
+.name {
+  position: absolute;
+  left: calc(50% + 32.64px);
+}
+.booking-page-child1 {
+  top: 367.91px;
+  width: 573.63px;
+  height: 29.67px;
+}
+.name {
+  top: 163.19px;
+  font-weight: 600;
+}
+.details-entry-icon1 {
+  position: absolute;
+  top: 153.3px;
+  left: calc(50% - 651.76px);
+  border-radius: 19.78px;
+  width: 585.49px;
+  height: 556.81px;
+}
+.date-time {
+  position: absolute;
+  top: 417px;
+  left: calc(50% + 33px);
+  font-weight: 600;
+  display: inline-block;
+  width: 168px;
+}
+.nh-169-kudremukh-road {
+  text-transform: uppercase;
+}
+.ahead-of {
+  text-transform: lowercase;
+}
+.karkala-karnataka-574104 {
+  margin: 0;
+  text-transform: uppercase;
+}
+.address {
+  position: absolute;
+  top: 479.67px;
+  left: calc(50% - 630.99px);
+  font-size: 29.67px;
+  font-weight: 600;
+  display: inline-block;
+  width: 423.3px;
+}
+.booking-page-child2 {
+  position: absolute;
+  top: 632.97px;
+  left: calc(50% + 374.83px);
+  border-radius: 49.45px;
+  width: 270.99px;
+  height: 56.37px;
+}
+.enter {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 640.88px;
+  left: calc(50% + 479.67px);
+  font-size: 24.73px;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 87.03px;
+  height: 22.75px;
+}
+.frame-div,
+.frame-input {
+  position: absolute;
+  top: 160px;
+  left: 790px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.frame-input {
+  border: 0;
+  background-color: transparent;
+  top: 459px;
+  left: 750px;
+  width: 193px;
+  height: 35px;
+}
+.booking-page-child3,
+.booking-page-child4,
+.booking-page-child5 {
+  border: 0;
+  background-color: var(--color-steelblue);
+  position: absolute;
+  left: 757px;
+  height: 44px;
+  overflow: hidden;
+}
+.booking-page-child3 {
+  top: 455px;
+  width: 205px;
+  color: white;
+  font-size: 24.73px;
+}
+.booking-page-child4,
+.booking-page-child5 {
+  width: 579px;
+  font-size: 24.73px;
+  color: var(--color-white);
+  
+}
+.booking-page-child4 {
+  font-family: var(--font-inter);
+  font-size: 24.73px;
+  top: 363px;
+  color: var(--color-white);
+}
+.booking-page-child5 {
+  top: 283px;
+  
+}
+.booking-page-child6,
+.enter-your-phone {
+  
+  font-family: var(--font-inter);
+  font-size: 24.73px;
+  position: absolute;
+}
+.booking-page-child6 {
+  background-color: var(--color-steelblue);
+  top: 196px;
+  left: 757px;
+  width: 579px;
+  height: 44px;
+  color: var(--color-white);
+}
+.enter-your-phone {
+  background-color: transparent;
+  top: 290px;
+  left: 767px;
+  color: var(--color-white);
+  text-align: left;
+}
+
+.booking-page {
+  position: relative;
+  background-color: var(--color-lightblue);
+  width: 1440px;
+  height: 731.87px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.rockside-resto-bar-container {
+  position: absolute;
+  margin: 0 !important;
+  top: 428.24px;
+  left: calc(50% - 640.88px);
+  font-size: 39.56px;
+  text-transform: uppercase;
+  font-weight: 900;
+  text-align: center;
+  display: inline-block;
+  width: 464.84px;
+  height: 49.45px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.map-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 205.71px;
+  left: calc(50% - 628.02px);
+  width: 537.03px;
+  height: 197.8px;
+  object-fit: cover;
+  z-index: 2;
+}
+.booking-page-parent,
+.nav {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.booking-page-parent {
+  top: 4814px;
+  height: 710px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9.89px;
+  font-size: 24.73px;
+  color: var(--color-black);
+}
+.nav {
+  top: 0;
+  height: 5524px;
+  font-size: 30px;
+  color: var(--color-gray);
+}
+.contactus-child,
+.navigation-bar {
+  position: absolute;
+  background-color: var(--color-lightskyblue);
+}
+.navigation-bar {
+  top: 4861px;
+  left: calc(50% - 652px);
+  width: 1302px;
+  height: 78px;
+}
+.contactus-child {
+  width: 100%;
+  top: calc(50% - 38.7px);
+  right: 0;
+  left: 0;
+  height: 69.81px;
+}
+.contact-us {
+  position: absolute;
+  width: 21.53%;
+  top: calc(50% - 27.7px);
+  left: 40.56%;
+  display: inline-block;
+  height: 66.4px;
+  text-shadow: 0 3.9560439586639404px 2.97px rgba(0, 0, 0, 0.25);
+}
+.contactus {
+  position: absolute;
+  width: 90.07%;
+  top: calc(50% - 213.5px);
+  right: 5%;
+  left: 4.93%;
+  height: 77.4px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.addres-child,
+.addres-item {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 160.58px);
+  right: 0;
+  left: 0;
+  border-radius: 19.78px;
+  background-color: var(--color-aliceblue);
+  height: 321.16px;
+}
+.addres-item {
+  width: 79.68%;
+  top: calc(50% - 88.99px);
+  right: 11.5%;
+  left: 8.82%;
+  background-color: var(--color-lightgray);
+  box-shadow: 12.857142448425293px -12.857142448425293px 14.84px rgba(131, 131, 131, 0.7);
+  height: 230.84px;
+}
+.address1 {
+  position: absolute;
+  width: 45.45%;
+  top: calc(50% - 145.75px);
+  left: 29.03%;
+  font-weight: 500;
+  display: inline-block;
+  height: 40.81px;
+}
+.addres-inner {
+  position: absolute;
+  width: 63.9%;
+  top: calc(50% - 62.23px);
+  right: 20.86%;
+  left: 15.24%;
+  border-radius: 39.56px;
+  background-color: var(--color-steelblue);
+  height: 36.8px;
+}
+.get-directions {
+  position: absolute;
+  width: 50.27%;
+  top: calc(50% - 55.75px);
+  left: 24.24%;
+  font-size: 19.78px;
+  color: var(--color-white);
+  display: inline-block;
+  height: 16.06px;
+}
+.nh-169-kudremukh-road-container {
+  position: absolute;
+  width: 61.73%;
+  top: calc(50% + 16.88px);
+  left: 17.76%;
+  font-size: 11.87px;
+  display: inline-block;
+  height: 67px;
+}
+.addres {
+  position: absolute;
+  width: 24.64%;
+  top: calc(50% - 122.96px);
+  right: 38.28%;
+  left: 37.08%;
+  height: 321.16px;
+}
+.business-hours {
+  position: absolute;
+  width: 63.98%;
+  top: calc(50% - 143.77px);
+  left: 18.04%;
+  font-weight: 500;
+  display: inline-block;
+  height: 28.68px;
+}
+.bus-hours-inner,
+.bus-hours-item {
+  position: absolute;
+  width: 75.67%;
+  top: calc(50% - 88.99px);
+  right: 12.03%;
+  left: 12.3%;
+  border-radius: 19.78px;
+  background-color: var(--color-lightgray);
+  height: 229.5px;
+}
+.bus-hours-inner {
+  box-shadow: 12.857142448425293px -12.857142448425293px 14.84px rgba(131, 131, 131, 0.7);
+}
+.mon1000-am-container {
+  position: absolute;
+  width: 51.58%;
+  top: calc(60% - 65.14px);
+  left: 27.9%;
+  font-size: 15px;
+ white-space: wrap;
+  /* white-space: pre-wrap; */
+  display: inline-block;
+  height: 220.55px;
+}
+
+.bus-hours,
+.contact-item {
+  position: absolute;
+  width: 24.64%;
+  top: calc(50% - 124.94px);
+  right: 12.17%;
+  left: 63.19%;
+  height: 321.16px;
+}
+.contact-item {
+  width: 79.68%;
+  top: calc(50% - 81.63px);
+  right: 9.36%;
+  left: 10.96%;
+  border-radius: 19.78px;
+  background-color: var(--color-lightgray);
+  box-shadow: 12.857142448425293px -12.857142448425293px 14.84px rgba(131, 131, 131, 0.7);
+  height: 222.14px;
+}
+.contact1,
+.div {
+  position: absolute;
+  display: inline-block;
+}
+.contact1 {
+  width: 43.05%;
+  top: calc(50% - 141.79px);
+  left: 30.72%;
+  font-weight: 500;
+  height: 38.14px;
+  text-shadow: 0 3.9560439586639404px 3.96px rgba(0, 0, 0, 0.25);
+}
+.div {
+  width: 39.57%;
+  top: calc(50% + 24.36px);
+  left: 31%;
+  font-size: 11.87px;
+  height: 15.39px;
+}
+.contact-inner {
+  position: absolute;
+  width: 63.1%;
+  top: calc(50% - 62.23px);
+  right: 18.98%;
+  left: 17.91%;
+  border-radius: 39.56px;
+  background-color: var(--color-steelblue);
+  height: 36.8px;
+}
+.contact-us1 {
+  position: absolute;
+  width: 39.3%;
+  top: calc(50% - 56.73px);
+  left: 34.67%;
+  font-size: 19.78px;
+  color: var(--color-white);
+  display: inline-block;
+  height: 19.4px;
+}
+.contact {
+  position: absolute;
+  width: 24.64%;
+  top: calc(50% - 122.5px);
+  right: 65.08%;
+  left: 10.28%;
+  height: 321.16px;
+}
+.gmail-rocksidegmailcom {
+  position: absolute;
+  width: 14.03%;
+  top: calc(50% + 92.64px);
+  left: 17.5%;
+  font-size: 11.87px;
+  display: inline-block;
+  height: 15.82px;
+}
+.gmail-icon-free-png-1,
+.icon {
+  position: absolute;
+  top: 321px;
+  left: 235px;
+  width: 16.81px;
+  height: 15.82px;
+  object-fit: cover;
+}
+.gmail-icon-free-png-1 {
+  top: 350.03px;
+  left: 230.02px;
+  width: 22.75px;
+  height: 21.76px;
+}
+.con {
+  position: absolute;
+  top: 5524px;
+  left: 0;
+  background-color: var(--color-lightblue);
+  width: 1440px;
+  height: 519px;
+  overflow: hidden;
+  font-size: 29.67px;
+}
+.desktop-2-child {
+  position: absolute;
+  top: 1232px;
+  left: 660px;
+  border-radius: 29.67px;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 12.857142448425293px 12.857142448425293px 3.96px
+    rgba(0, 0, 0, 0.25);
+  width: 688px;
+  height: 628px;
+}
+.chef-23462-1280-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 499.4px;
+  height: 677.03px;
+  object-fit: cover;
+}
+.about-us,
+.rockside-bar-container {
+  position: absolute;
+  top: 122px;
+  left: 599px;
+  font-weight: 500;
+  display: inline-block;
+  width: 565px;
+  height: 471px;
+}
+.about-us {
+  top: 11px;
+  left: 794px;
+  font-size: 32px;
+  font-weight: 800;
+  width: 351.07px;
+  height: 96.09px;
+}
+.aboutus {
+  position: absolute;
+  top: 1209px;
+  left: 100px;
+  width: 1164px;
+  height: 677.03px;
+  font-size: 23px;
+  font-family: var(--font-inknut-antiqua);
+}
+.menucard-child {
+  position: absolute;
+  top: 2113px;
+  left: 49px;
+  border-radius: 29.67px;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 12.857142448425293px 12.857142448425293px 3.96px
+    rgba(0, 0, 0, 0.25);
+  width: 591px;
+  height: 755px;
+}
+.istockphoto-1446478827-612x612-icon,
+.istockphoto-824283794-612x612-icon {
+  position: absolute;
+  top: 2536px;
+  left: 743px;
+  border-radius: 30px;
+  width: 603px;
+  height: 335px;
+  object-fit: cover;
+}
+.istockphoto-1446478827-612x612-icon {
+  top: 2136px;
+  border-radius: 28.68px;
+  height: 363.32px;
+}
+.blank-line6 {
+  margin: 0;
+  font-family: var(--font-inria-serif);
+}
+
+.menucard-item {
+  position: absolute;
+  top: 1196px;
+  left: 727px;
+  border-radius: 29.67px;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 12.857142448425293px 12.857142448425293px 3.96px
+    rgba(0, 0, 0, 0.25);
+  width: 619px;
+  height: 802px;
+}
+.menucard-inner {
+  position: absolute;
+  width: 98.74%;
+  top: calc(50% - 1435.5px);
+  right: 1.26%;
+  left: 0;
+  background-color: var(--color-lightskyblue);
+  height: 70px;
+}
+
+.istockphoto-1158191245-612x612-icon {
+  position: absolute;
+  top: 1609px;
+  left: 49px;
+  border-radius: 28.04px;
+  width: 607px;
+  height: 381.41px;
+  object-fit: cover;
+}
+.menu-card {
+  position: absolute;
+  width: 20.74%;
+  top: calc(50% - 1419.5px);
+  left: 42.02%;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  height: 66.4px;
+  text-shadow: 0 3.9560439586639404px 2.97px rgba(0, 0, 0, 0.25);
+}
+.rectangle-div {
+  position: absolute;
+  top: 144px;
+  left: 49px;
+  border-radius: 29.67px;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 12.857142448425293px 12.857142448425293px 3.96px
+    rgba(0, 0, 0, 0.25);
+  width: 607px;
+  height: 869px;
+}
+.istockphoto-1428412216-612x612-icon,
+.pexels-photo-1307698-1-icon {
+  position: absolute;
+  top: 161px;
+  left: 706px;
+  border-radius: 29.67px;
+  width: 641px;
+  height: 329px;
+  object-fit: cover;
+}
+.pexels-photo-1307698-1-icon {
+  top: 598px;
+  border-radius: 29.18px;
+  height: 396px;
+}
+.istockphoto-683264812-612x612-icon {
+  position: absolute;
+  top: 1196px;
+  left: 49px;
+  border-radius: 28.04px;
+  width: 607px;
+  height: 355px;
+  object-fit: cover;
+}
+.menu,
+.menucard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1347px;
+  height: 2871px;
+}
+.menu {
+  top: 1925px;
+  left: 49px;
+  font-family: var(--font-inknut-antiqua);
+}
+.booking-entry {
+  position: absolute;
+  top: 4876px;
+  left: calc(50% - 194px);
+  font-size: var(--font-size-21xl);
+  text-transform: uppercase;
+  font-weight: 900;
+  color: var(--color-gray);
+  text-align: center;
+}
+
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-lightblue);
+  width: 100%;
+  height: 6015px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.rectangle-div p{
+  text-align: left;
+  font-size: 19px;
+  margin: 20px 50px 10px 50px;
+}
+.menucard-item p{
+  text-align: left;
+  font-size: 20px;
+  margin: 55px 50px 10px 50px;
+
+}
+.menucard-child p{
+  text-align: left;
+  font-size: 20px;
+  margin: 20px 50px 10px 50px;
+
+}
